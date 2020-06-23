@@ -33,6 +33,8 @@
             finally
             {
                 process?.Kill();
+                process.WaitForExit();
+                System.IO.File.Delete(dummyFilePath);
             }
         }
     }
