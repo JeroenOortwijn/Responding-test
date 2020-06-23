@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.36
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Responding test (.Net 5.0)", "Responding test\Responding test (.Net 5.0).csproj", "{0AD5E514-1F9F-4C29-BB5D-31571091E608}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Responding test (.Net 5.0)", "Responding test (.Net 5.0)\Responding test (.Net 5.0).csproj", "{0AD5E514-1F9F-4C29-BB5D-31571091E608}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Responding test (.Net Core 3.1)", "Responding test (.Net Core 3.1)\Responding test (.Net Core 3.1).csproj", "{75BA402B-BC62-4049-A376-6237BB4667D0}"
 EndProject
